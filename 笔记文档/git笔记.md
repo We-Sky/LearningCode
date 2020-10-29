@@ -2,7 +2,11 @@ https://www.liaoxuefeng.com/wiki/896043488029600/1163625339727712
 
 # 在gitee上创建项目
 
-在码云首页顶部，下图所示，右上角头像旁边的加号，鼠标移上去会显示下拉的，点击“新建项目”。![image-20201028211356701](img/image-20201028211356701.png)
+在码云首页顶部，下图所示，右上角头像旁边的加号，鼠标移上去会显示下拉的，点击“新建项目”。
+
+![image-20201028211356701](https://gitee.com/matt0124/img_repo/raw/master/20201029224923.png)
+
+
 
 填写好项目的名称、路径等，然后点击“提交”
 
@@ -22,7 +26,7 @@ ssh-keygen.exe
 
 然后按回车，再次按回车，在回车，按三次回车：
 
-![img](img/20190508091058616.png)
+![20190508091058616](https://gitee.com/matt0124/img_repo/raw/master/20201029225025.png)
 
 即可看到密钥，
 
@@ -32,7 +36,9 @@ C:\Users\Administrator\.ssh\id_rsa.pub
 
 点击SSH公钥
 
-![image-20201028214005427](img/image-20201028214005427.png)
+![image-20201028214005427](https://gitee.com/matt0124/img_repo/raw/master/20201029225106.png)
+
+
 
 右侧的添加公钥，标题随便填写，公钥 里面将上面我们复制的那个本地密钥粘贴到这里，然后点击“确定”即可。这样我们就有权限对自己在码云上的项目进行读写操作了。
 
@@ -40,7 +46,7 @@ C:\Users\Administrator\.ssh\id_rsa.pub
 
 新建文件夹，右键---Git bash here
 
-![image-20201028214332336](img/image-20201028214332336.png)
+![image-20201028214332336](https://gitee.com/matt0124/img_repo/raw/master/20201029225134.png)
 
 
 
